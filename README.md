@@ -69,10 +69,6 @@ SpectralZK shows that ZK protocols can be built on tiling-based problems, but th
 
 For real use, stick to traditional ZK systems based on well-studied problems. This prototype is a starting point for research into combinatorial cryptography, not a replacement for existing systems.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Commercial Use
 
 If you use this project or its ideas in a commercial product or service, please contact Daniel Skryseth. Attribution is appreciated for any derivative or inspired work.
