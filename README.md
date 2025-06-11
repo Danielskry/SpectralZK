@@ -71,4 +71,4 @@ For real use, stick to traditional ZK systems based on well-studied problems. Th
 
 ## Commercial Use
 
-If you use this project or its ideas in a commercial product or service, please contact Daniel Skryseth. Attribution is appreciated for any derivative or inspired work.
+If you use this project or its ideas in a commercial product or service, please contact Daniel Skryseth.
