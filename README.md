@@ -48,7 +48,7 @@ This property means that, in theory, if you only reveal a small region of the ti
 
 The protocol uses this idea: the prover commits to a path through the tiling and only reveals a few steps. The verifier can check these steps, but does not learn the whole path or the global position. In theory, if you could show that finding or verifying certain paths in a tiling is computationally hard, you could base cryptography on this property.
 
-**This is a new direction: there is no known prior work using aperiodic tilings as a cryptographic primitive.** The main open question is whether the underlying problem is actually hard for an attacker. The intuition is strong, but a formal proof is still needed.
+**This is a new direction: there is no known prior work using aperiodic tilings as a cryptographic primitive (as far as I know or could find).** The main open question is whether the underlying problem is actually hard for an attacker. The intuition is strong, but a formal proof is still needed.
 
 This approach fits into the broader area of combinatorial cryptography, where cryptographic protocols are based on combinatorial structures and problems, rather than traditional algebraic ones.
 
